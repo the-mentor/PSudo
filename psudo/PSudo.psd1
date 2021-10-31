@@ -12,13 +12,13 @@
 RootModule = 'PSudo.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.1'
+ModuleVersion = '0.0.2'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
 
 # ID used to uniquely identify this module
-GUID = '94edc26a-9aff-4edc-883a-491231677c25'
+GUID = '48f1208b-5f19-40f7-9df1-dbb2416e7a9c'
 
 # Author of this module
 Author = 'Avri Chen-Roth'
