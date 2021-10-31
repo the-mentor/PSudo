@@ -30,7 +30,7 @@ CompanyName = 'Avri Chen-Roth'
 Copyright = '(c) 2021 Avri Chen-Roth. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'run PowerShell Scripts as sudo on Linux/MacOS'
 
 # Minimum version of the Windows PowerShell engine required by this module
 PowerShellVersion = '7.0'
@@ -98,10 +98,10 @@ PrivateData = @{
         # Tags = @()
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://github.com/the-mentor/PSudo/blob/main/LICENSE'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/the-mentor/PSudo/blob/main/README.md'
 
         # A URL to an icon representing this module.
         # IconUri = ''
